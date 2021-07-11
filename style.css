@@ -1,0 +1,36 @@
+
+body {
+width: 900px;
+margin-left: auto;
+margin-right: auto;
+text-align:  center;
+background-color: lightblue;
+}
+body{
+	font-family: arial;
+	color: hotpink;
+	font-size: 14px;
+	border:  1px purple solid;
+}
+
+h1{
+	font-size: 18px;
+
+}
+p{ 
+	color: purple;
+	font-size: 16px;
+	font-family: arial;
+}
+h2{
+	color: hotpink;
+	font-family: arial;
+	font-size: 22px;
+}
+h3{
+	color: hotpink;
+	font-family: arial;
+	font-size: 22px;
+}
+
+
